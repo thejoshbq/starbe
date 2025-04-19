@@ -1,1 +1,1 @@
-# STARBE (Spike-Train Analysis and Reduction from Behavioral Events)
+# STARBE (Signal Tracking and Analysis Referenced by Behavioral Events)
